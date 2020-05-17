@@ -1,0 +1,2 @@
+module Ranjan_auto {
+}
