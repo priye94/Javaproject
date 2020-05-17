@@ -13,7 +13,7 @@ public class Star1 {
 		}
 			System.out.println();
 		}
-
+System.out.println("New line added");
 	}
 
 }
